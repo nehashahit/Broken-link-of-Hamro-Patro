@@ -7,7 +7,7 @@ url = "https://health.hamropatro.com/doctors"
 driver = webdriver.Chrome()
 driver.get(url)
 
-total_doctors = 0  
+total_doctors = 0
 
 try:
     while True:
